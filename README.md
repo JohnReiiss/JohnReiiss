@@ -105,12 +105,4 @@ In my free time, I enjoy traveling, listening to music, and practicing weight tr
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnReiiss&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=15" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnReiiss&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
-
 </p>
