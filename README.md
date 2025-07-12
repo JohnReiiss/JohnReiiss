@@ -84,6 +84,38 @@ In my free time, I enjoy traveling, listening to music, and practicing weight tr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Express" 
+    title="Express" 
+    width="30px" 
+    style="padding-right: 10px; background-color: white; border-radius: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
 <br/>
 <br/>
 
