@@ -6,7 +6,11 @@
 
 </div>
 
-**`FullStack Developer`**
+<div align="center">
+    
+**`フルスタック開発者`**
+
+</div>
 
 My name is Johnatan Reis, I am 25 years old, and I am from Santo André-SP. I graduated from high school at Cleonice Soares da Fonseca State School in 2018. Currently, I am pursuing a degree in Software Engineering at Descomplica UniAmérica. I am passionate about technology and the creation of new, optimized ideas and solutions that provide an excellent user experience.
 
