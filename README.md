@@ -6,6 +6,12 @@ My name is Johnatan Reis, I am 24 years old, and I am from Santo André-SP. I gr
 
 In my free time, I enjoy traveling, listening to music, and practicing weight training or martial arts. I strive to maintain a balance between the various activities I engage in on a daily basis, and I love my life as a programmer.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnReiiss/JohnReiiss/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnReiiss/JohnReiiss/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JohnReiiss/JohnReiiss/output/pacman-contribution-graph.svg">
+</picture>
+
 <p align="left">
     </a> 
     <a href="https://github.com/JohnReiiss?tab=stars">
