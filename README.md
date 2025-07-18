@@ -105,7 +105,4 @@ In my free time, I enjoy traveling, listening to music, and practicing weight tr
 
 </div>
 
-
-
-
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=9400D3&reversal=true&section=footer)
