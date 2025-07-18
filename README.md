@@ -12,6 +12,8 @@ In my free time, I enjoy traveling, listening to music, and practicing weight tr
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JohnReiiss/JohnReiiss/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
 <p align="left">
     </a> 
     <a href="https://github.com/JohnReiiss?tab=stars">
