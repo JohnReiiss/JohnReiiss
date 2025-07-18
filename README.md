@@ -14,7 +14,7 @@ In my free time, I enjoy traveling, listening to music, and practicing weight tr
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohnReiiss)
-[![Star](https://img.shields.io/badge/Star-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohnReiiss?tab=repositories)
+[![Star](https://img.shields.io/badge/Star-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohnReiiss?tab=stars)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contadeestudos541@gmail.com)
 [![iCloud Mail](https://img.shields.io/badge/iCloud-000000?style=for-the-badge&logo=icloud&logoColor=white)](mailto:johnatan.reiiss@icloud.com)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hayabusa.johnatan?igsh=aG9iYW1mN3ZmeW1z&utm_source=qr)
