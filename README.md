@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=30&pause=1000&color=8509F7&width=435&lines=Hey%2C+Wassup%3F+I+am+Johnatan+Reiiss;I'm+a+full+stack+developer;focused+on+UX%2FUI+design;welcome+to+my+readme)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=26&pause=1000&color=8509F7&width=435&lines=Hey%2C+Wassup%3F+I+am+Johnatan+Reiiss;I'm+a+full+stack+developer;focused+on+UX%2FUI+design;welcome+to+my+readme)](https://git.io/typing-svg)
 
 </div>
 
