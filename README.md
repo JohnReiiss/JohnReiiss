@@ -61,29 +61,13 @@ In my free time, I enjoy traveling, listening to music, and practicing weight tr
   
 ### 🖼️ Front-End
   
-<p align="center">
-  <img alt="HTML" title="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="CSS" title="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="JavaScript" title="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="React" title="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Bootstrap" title="Bootstrap" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma,vite,wordpress)](https://skillicons.dev)
 
 <div align="center">
 
 ### 🧠 Back-End
 
-<p align="center">
-  <img alt="PHP" title="PHP" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Node.js" title="Node.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Express" title="Express" width="50px" style="background-color: white; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=php,nodejs,nextjs,express,npm,powershell)](https://skillicons.dev)
 
 </div>
 
@@ -91,11 +75,7 @@ In my free time, I enjoy traveling, listening to music, and practicing weight tr
 
 ### 🗃️ Database
 
-<p align="center">
-  <img alt="MongoDB" title="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="MySQL" title="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
 </div>
 
@@ -103,15 +83,7 @@ In my free time, I enjoy traveling, listening to music, and practicing weight tr
 
 ### 🧑‍💻 Tools
 
-<p align="center">
-  <img alt="Git" title="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="GitHub" title="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="VS Code" title="VS Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Windows" title="Windows" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,windows,gmail)](https://skillicons.dev)
 
 </div>
 
