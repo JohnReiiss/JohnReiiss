@@ -7,6 +7,10 @@
 </div>
 
 <div align="center">
+  <img src="https://i.imgur.com/8b5p6JB.mp4.gif" width="400">
+</div>
+
+<div align="center">
     
 **`フ ル ス タ ッ ク 開 発 者`**
 
