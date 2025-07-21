@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/8b5p6JB.mp4.gif" width="400">
+  <img src="https://media3.giphy.com/media/dc9JXastkHG4ldijFT/giphy.gif" width="200" alt="Luffy Gear 5">
 </div>
 
 <div align="center">
@@ -52,6 +52,8 @@ In my free time, I enjoy traveling, listening to music, and practicing weight tr
 <div align="center">
     
 ### 🤖 Languages ​​and Technologies
+
+<img src="https://media1.giphy.com/media/iZw8B4xAZf7k0dIzeu/giphy.gif" width="200" alt="Naruto GIF">
 
 </div>
 
