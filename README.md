@@ -87,4 +87,14 @@ In my free time, I enjoy traveling, listening to music, and practicing weight tr
 
 </div>
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnReiiss/JohnReiiss/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnReiiss/JohnReiiss/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JohnReiiss/JohnReiiss/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=9400D3&reversal=true&section=footer)
