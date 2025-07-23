@@ -43,7 +43,7 @@ In my free time, I enjoy traveling, listening to music, and practicing weight tr
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JohnReiiss&theme=midnight_purple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JohnReiiss&theme=midnight_purple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JohnReiiss&theme=midnight_purple&utcOffset=8)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JohnReiiss&theme=highcontrast&hide_border=true&card_width=680)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JohnReiiss&theme=highcontrast&card_width=680)](https://git.io/streak-stats)
 
 </div>
 
